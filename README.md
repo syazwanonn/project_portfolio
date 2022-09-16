@@ -4,3 +4,6 @@
 
 #### List of files 
 #### 1. Solar_PV_Forecasting.R : coding for forecasting solar PV power generation using R language
+#### 2. Google Cloud Computing Failure Prediction : data extracted from the server using HDFS, and prediction modelling built using Python
+#### 3. Petrol Formulation Clustering using K-Means : verifying different groups of fuel formulation using statistical technique, and establish formulation groups using K-Means.
+#### 4. Investigation of Significant Factor of Fresh Fruit Bunch (FFB) Yield using OLS
